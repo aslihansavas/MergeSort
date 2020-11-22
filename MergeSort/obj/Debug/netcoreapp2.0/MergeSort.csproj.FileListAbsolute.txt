@@ -1,0 +1,10 @@
+C:\Users\Asli\source\repos\MergeSort\MergeSort\bin\Debug\netcoreapp2.0\MergeSort.deps.json
+C:\Users\Asli\source\repos\MergeSort\MergeSort\bin\Debug\netcoreapp2.0\MergeSort.runtimeconfig.json
+C:\Users\Asli\source\repos\MergeSort\MergeSort\bin\Debug\netcoreapp2.0\MergeSort.runtimeconfig.dev.json
+C:\Users\Asli\source\repos\MergeSort\MergeSort\bin\Debug\netcoreapp2.0\MergeSort.dll
+C:\Users\Asli\source\repos\MergeSort\MergeSort\bin\Debug\netcoreapp2.0\MergeSort.pdb
+C:\Users\Asli\source\repos\MergeSort\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\Asli\source\repos\MergeSort\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.AssemblyInfoInputs.cache
+C:\Users\Asli\source\repos\MergeSort\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.AssemblyInfo.cs
+C:\Users\Asli\source\repos\MergeSort\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.dll
+C:\Users\Asli\source\repos\MergeSort\MergeSort\obj\Debug\netcoreapp2.0\MergeSort.pdb
